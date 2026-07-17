@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,50:6D28D9,100:A78BFA&height=220&section=header&text=Edward&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Product%20Builder&descSize=20&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,50:6D28D9,100:A78BFA&height=220&section=header&text=Edward&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Fullstack%20Developer%20%C2%B7%20AI%20Product%20Engineer%20%C2%B7%208%2B%20Years&descSize=20&descAlignY=55" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=720&lines=Building+AI-powered+products+end+to+end;LLM+Agents+%C2%B7+MCP+Servers+%C2%B7+Automation;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Python;Shipping+production+systems+on+lean+infrastructure" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=720&lines=8%2B+years+building+web%2C+mobile+%26+desktop+apps;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js;LLM+Integration+%C2%B7+RAG+%C2%B7+MCP+%C2%B7+Agentic+Workflows;From+robotics+to+AI-powered+products" alt="Typing SVG"/>
 
 <br/>
 <br/>
 
-<img src="https://img.shields.io/badge/Warsaw%20University%20of%20Technology-Engineering-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/Specialization-Software%20%26%20AI%20Engineering-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Warsaw%20University%20of%20Technology-Mathematics%20%26%20Computer%20Science-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/Experience-8%2B%20Years%20Fullstack-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Location-Warsaw%2C%20Poland-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br/>
@@ -19,36 +19,29 @@
 <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A2E"/></a>
 <a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/GitHub-Follow-4C1D95?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A2E"/></a>
 
-<br/>
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/your-github-username?style=for-the-badge&logo=github&color=7C3AED&labelColor=1A1A2E&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/your-github-username/yt-scribe?style=for-the-badge&logo=github&color=8B5CF6&labelColor=1A1A2E&label=STARS"/>
-
 </div>
 
 ---
 
 ## About
 
-Full-stack developer and AI engineer based in Warsaw, Poland, building production AI systems end to end — from LLM-powered agents, MCP tooling, and automation pipelines to the web platforms that ship them.
+Fullstack developer with **8+ years of experience** building web, mobile, and desktop applications using React, Node.js, and TypeScript. Co-founded an AI-powered sales coaching platform, delivered fullstack solutions to clients worldwide as an independent contractor, and contributed to robotics navigation systems.
 
-I operate at the intersection of **software engineering discipline** and **applied AI**: designing clean, typed architectures on React / Next.js and Node.js, then wiring in LLMs where they create real leverage — structured extraction, tool use, agentic workflows, and conversational interfaces. I approach every system with a **product engineering mindset**: define the outcome, ship the smallest reliable version, instrument it, and iterate on real usage rather than assumptions.
+What sets this profile apart is **hands-on AI product experience layered on a strong fullstack foundation** — LLM integration across OpenAI, Anthropic, and Google APIs, RAG pipelines, MCP servers, and agentic workflows, applied as product capabilities in systems with real users and real business impact.
 
-- **Software Engineering** — typed full-stack systems, serverless architectures, API design, developer tooling
-- **AI / ML Engineering** — LLM application development, MCP servers, prompt & pipeline design, speech-to-text systems
-- **Full-Stack Delivery** — React, Next.js, Node.js, PostgreSQL, Redis — from schema to deployed UI
-- **Product Engineering** — founder-level ownership: scoping, shipping, cost control, and iteration in production
+- **Software Engineering** — typed, maintainable architectures across web, mobile (Ionic / Capacitor), and desktop
+- **AI Product Engineering** — LLM integration, RAG pipelines, MCP servers, agentic workflows, voice AI (WhisperAI, CartesiaAI)
+- **Fullstack Delivery** — React, Next.js, Node.js, TypeScript — from data model to deployed, customer-facing UI
+- **Product Mindset** — founder-level ownership: measurable outcomes like +40% compliance and six-figure cost savings
 
 <div align="center">
 
 **Open To**
 
 <img src="https://img.shields.io/badge/AI%20Engineer%20Roles-Open-8B5CF6?style=flat-square&logo=github&logoColor=white&labelColor=1A1A2E"/>
-<img src="https://img.shields.io/badge/Full--Stack%20Roles-Open-7C3AED?style=flat-square&logo=react&logoColor=white&labelColor=1A1A2E"/>
-<img src="https://img.shields.io/badge/Remote%20%2F%20EU%20Hybrid-Open-6D28D9?style=flat-square&logo=googlemeet&logoColor=white&labelColor=1A1A2E"/>
-<img src="https://img.shields.io/badge/Open%20Source%20Collaboration-Open-4C1D95?style=flat-square&logo=git&logoColor=white&labelColor=1A1A2E"/>
+<img src="https://img.shields.io/badge/Fullstack%20Roles-Open-7C3AED?style=flat-square&logo=react&logoColor=white&labelColor=1A1A2E"/>
+<img src="https://img.shields.io/badge/Tech%20Partnership%20%2F%20Consulting-Open-6D28D9?style=flat-square&logo=googlemeet&logoColor=white&labelColor=1A1A2E"/>
+<img src="https://img.shields.io/badge/Remote%20%2F%20EU%20Hybrid-Open-4C1D95?style=flat-square&logo=git&logoColor=white&labelColor=1A1A2E"/>
 
 </div>
 
@@ -58,38 +51,75 @@ I operate at the intersection of **software engineering discipline** and **appli
 
 <div align="center">
 
-#### Languages
+#### Frontend & Mobile
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,bash,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,threejs&theme=dark"/>
 
-#### Frontend
+<br/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite&theme=dark"/>
+<img src="https://img.shields.io/badge/Ionic-Cordova%20%2F%20PhoneGap-7C3AED?style=flat-square&logo=ionic&logoColor=white&labelColor=1A1A2E"/>
+<img src="https://img.shields.io/badge/Capacitor-Mobile-6D28D9?style=flat-square&logo=capacitor&logoColor=white&labelColor=1A1A2E"/>
+<img src="https://img.shields.io/badge/Quasar-Framework-8B5CF6?style=flat-square&logo=quasar&logoColor=white&labelColor=1A1A2E"/>
 
-#### Backend & Databases
+#### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,sqlite,redis,prisma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,py&theme=dark"/>
 
-#### Cloud, DevOps & Tooling
+<br/>
 
-<img src="https://skillicons.dev/icons?i=vercel,cloudflare,docker,git,github,githubactions,linux&theme=dark"/>
+<img src="https://img.shields.io/badge/REST%20API-Design-8B5CF6?style=flat-square&labelColor=1A1A2E"/>
+<img src="https://img.shields.io/badge/CI%2FCD-Pipelines-7C3AED?style=flat-square&logo=githubactions&logoColor=white&labelColor=1A1A2E"/>
+
+#### AI Product Skills
+
+<img src="https://img.shields.io/badge/OpenAI-API-8B5CF6?style=flat-square&logo=openai&logoColor=white&labelColor=1A1A2E"/>
+<img src="https://img.shields.io/badge/Anthropic-API-7C3AED?style=flat-square&logo=anthropic&logoColor=white&labelColor=1A1A2E"/>
+<img src="https://img.shields.io/badge/Google-AI%20APIs-6D28D9?style=flat-square&logo=googlegemini&logoColor=white&labelColor=1A1A2E"/>
+<img src="https://img.shields.io/badge/LangChain-Framework-4C1D95?style=flat-square&logo=langchain&logoColor=white&labelColor=1A1A2E"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/RAG-Pipelines-8B5CF6?style=flat-square&labelColor=1A1A2E"/>
+<img src="https://img.shields.io/badge/MCP-Servers-7C3AED?style=flat-square&labelColor=1A1A2E"/>
+<img src="https://img.shields.io/badge/Agentic-Workflows-6D28D9?style=flat-square&labelColor=1A1A2E"/>
+<img src="https://img.shields.io/badge/Prompt-Engineering-4C1D95?style=flat-square&labelColor=1A1A2E"/>
+<img src="https://img.shields.io/badge/WhisperAI-Speech-8B5CF6?style=flat-square&logo=openai&logoColor=white&labelColor=1A1A2E"/>
+<img src="https://img.shields.io/badge/CartesiaAI-Voice-7C3AED?style=flat-square&labelColor=1A1A2E"/>
+
+#### Robotics
+
+<img src="https://skillicons.dev/icons?i=ros&theme=dark"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/ROS3D-Visualization-6D28D9?style=flat-square&labelColor=1A1A2E"/>
+<img src="https://img.shields.io/badge/ArduPilot-Autonomous%20Flight-4C1D95?style=flat-square&labelColor=1A1A2E"/>
+
+#### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Claude%20Code-Agentic%20Coding-8B5CF6?style=flat-square&logo=claude&logoColor=white&labelColor=1A1A2E"/>
+<img src="https://img.shields.io/badge/Cursor-AI%20IDE-7C3AED?style=flat-square&labelColor=1A1A2E"/>
 
 </div>
 
 ---
 
-## AI / ML Expertise
+## AI Product Expertise
 
 <div align="center">
 
 | Domain | Proficiency | Details |
 |:-------|:-----------:|:--------|
-| **LLM Application Engineering** | `▰▰▰▰▰` Advanced | Anthropic Claude API in production — structured outputs, tool calling, streaming, response-format resilience |
-| **Agentic Systems & MCP** | `▰▰▰▰▰` Advanced | Author of MCP servers (FastMCP, stdio transport) powering Claude Desktop workflows and multi-tool orchestration |
-| **Prompt & Pipeline Design** | `▰▰▰▰▰` Advanced | System prompt architecture, JSON-schema outputs, guardrails, cost/latency optimization across model tiers |
-| **Speech & Audio AI** | `▰▰▰▰▱` Proficient | faster-whisper transcription pipelines, YouTube transcript ingestion, local-first inference fallbacks |
-| **Retrieval & Semantic Search** | `▰▰▰▰▱` Proficient | SQLite FTS caching layers, transcript search systems, retrieval-augmented workflows |
-| **LLM Ops — Evals & Observability** | `▰▰▰▱▱` Growing | Evaluation harnesses, tracing, and cost attribution — actively deepening for production-grade AI systems |
+| **LLM Integration** | `▰▰▰▰▰` Advanced | Production integrations across OpenAI, Anthropic, and Google APIs — structured outputs, tool calling, cost control |
+| **MCP Servers** | `▰▰▰▰▰` Advanced | Built MCP servers connecting LLM agents to health trackers, wristband data, and transcript pipelines |
+| **Agentic Workflows** | `▰▰▰▰▰` Advanced | Multi-step agents with real data sources — from automated health reports to sales-conversation analysis |
+| **Prompt Engineering** | `▰▰▰▰▰` Advanced | System prompt architecture, structured JSON outputs, and reliability engineering against format drift |
+| **RAG Pipelines** | `▰▰▰▰▱` Proficient | Retrieval-augmented pipelines over transcripts and domain data for grounded, verifiable outputs |
+| **Voice & Speech AI** | `▰▰▰▰▱` Proficient | WhisperAI transcription pipelines and CartesiaAI voice — turning audio into structured product data |
 
 </div>
 
@@ -98,78 +128,59 @@ I operate at the intersection of **software engineering discipline** and **appli
 ## Featured Projects
 
 <details>
-<summary><b>BizonBot — AI-Powered Telegram Accountability Bot</b></summary>
+<summary><b>Personal AI Health Agent</b></summary>
 <br/>
 
-An AI-driven accountability system for a live sport community, evolving from simple daily check-ins into free-form, LLM-parsed activity tracking with goals, reactions, and automated summaries.
+A personal AI health agent built around Bryan Johnson's longevity protocols — unifying nutrition, sleep, and heart-rate data into automated, data-backed weekly health analysis.
 
 | Attribute | Details |
 |:----------|:--------|
-| **Stack** | Node.js · Vercel Serverless · Upstash Redis · Anthropic Claude (Haiku) · Telegram Bot API |
-| **Scale** | 25+ member live community · daily automated cron summaries · 24/7 serverless availability |
-| **Performance** | Stateless webhook functions with Redis-backed state for low-latency reads and writes |
-| **Security** | Isolated bot credentials, environment-based secret management, secret rotation policy |
-| **Impact** | Replaced manual reporting with AI free-form activity parsing, goal tracking, and daily group summaries |
-| **Repository** | [github.com/your-github-username/bizonbot](https://github.com/your-github-username/bizonbot) |
+| **Stack** | LLM agent · MCP servers · Calorie-tracker integration · Wristband data (sleep, heart rate) |
+| **Scale** | Continuous daily ingestion of nutrition and biometric data streams |
+| **Performance** | Fully automated weekly health checks and reports — zero manual data wrangling |
+| **Security** | Personal health data processed locally through self-hosted MCP servers |
+| **Impact** | Protocol-driven health optimization with objective, longitudinal feedback |
+| **Repository** | [github.com/your-github-username/ai-health-agent](https://github.com/your-github-username/ai-health-agent) |
 
-BizonBot demonstrates production LLM engineering under real constraints: multilingual (Cyrillic-aware) input handling, defensive parsing against AI response-format drift, timezone-correct scheduling, and cost-efficient model selection — all running on lean serverless infrastructure with real users depending on it daily.
+This project demonstrates agentic AI applied to real personal data: custom MCP servers expose a calorie-tracking app and wristband metrics (sleep, heart rate) as tools, and the agent composes them into weekly health checks aligned with Bryan Johnson-style protocols.
 
 </details>
 
 <details>
-<summary><b>yt-scribe — Local MCP Server for YouTube Intelligence</b></summary>
+<summary><b>YouTube-to-Summary AI Agent</b></summary>
 <br/>
 
-A local-first Model Context Protocol server that turns any YouTube video into a searchable knowledge base inside Claude Desktop — transcripts, metadata, and full-text search over everything ever fetched.
+An AI agent that turns long-form YouTube content into structured knowledge — transcripts, summaries, bullet points, and visualizations.
 
 | Attribute | Details |
 |:----------|:--------|
-| **Stack** | Python · FastMCP · SQLite (FTS caching) · faster-whisper · stdio transport |
-| **Scale** | Full-text search across all cached transcripts · three composable MCP tools |
-| **Performance** | SQLite caching eliminates repeat fetches; local Whisper fallback keeps it fully offline-capable |
-| **Security** | Runs entirely locally over stdio — no cloud keys required, no data leaves the machine |
-| **Impact** | Turns long-form video into instantly queryable context for AI-assisted research workflows |
-| **Repository** | [github.com/your-github-username/yt-scribe](https://github.com/your-github-username/yt-scribe) |
+| **Stack** | MCP integration · WhisperAI · Transcript pipeline · Summary & visualization generation |
+| **Scale** | Processes videos of any length into searchable, reusable text |
+| **Performance** | Hours of video condensed into minutes of structured reading |
+| **Security** | Local-first processing — content never leaves the user's machine |
+| **Impact** | Converts time-consuming video information into concise text with visualizations |
+| **Repository** | [github.com/your-github-username/youtube-summary-agent](https://github.com/your-github-username/youtube-summary-agent) |
 
-yt-scribe showcases MCP ecosystem engineering: clean tool schemas, deterministic caching, graceful degradation from API transcripts to local speech-to-text, and a privacy-preserving architecture designed for daily-driver use inside agentic AI clients.
+Built as an MCP-integrated agent using WhisperAI for speech-to-text, the pipeline transforms raw video into transcripts, distilled summaries, and bullet-point takeaways — a practical example of AI agents removing repetitive knowledge work.
 
 </details>
 
 <details>
-<summary><b>EDGAR Scout — SEC Filing Intelligence & Alerting</b></summary>
+<summary><b>Autonomous Flying Plane</b></summary>
 <br/>
 
-An automated monitoring pipeline for SEC EDGAR Form D filings that surfaces startup fundraising signals and delivers deduplicated alerts straight to Telegram.
+A fully autonomous fixed-wing aircraft built on open-source ArduPilot, customized at the flight-control level and freed from radio-range limits.
 
 | Attribute | Details |
 |:----------|:--------|
-| **Stack** | Node.js · SEC EDGAR API · Telegram Bot API · Railway · Vercel |
-| **Scale** | Continuous scheduled monitoring of public Form D filing streams |
-| **Performance** | Polling with deduplication and state persistence to guarantee exactly-once alerting |
-| **Security** | Read-only public-data pipeline with secret-managed bot credentials |
-| **Impact** | Real-time startup fundraising intelligence delivered as actionable notifications |
-| **Repository** | [github.com/your-github-username/edgar-scout](https://github.com/your-github-username/edgar-scout) |
+| **Stack** | ArduPilot (open source) · Custom flight-control code · Multi-sensor integration · GSM/mobile-network link |
+| **Scale** | Long-range flights beyond standard radio-control limits |
+| **Performance** | Custom-tuned flight-control code with multi-sensor input |
+| **Security** | Mobile-network command link replacing conventional short-range radio control |
+| **Impact** | End-to-end hardware/software integration — from firmware to long-range connectivity |
+| **Repository** | [github.com/your-github-username/autonomous-plane](https://github.com/your-github-username/autonomous-plane) |
 
-EDGAR Scout is data engineering with product intent: reliable ingestion of a regulatory data source, signal extraction from noisy filings, and a notification layer designed to be genuinely useful rather than merely complete.
-
-</details>
-
-<details>
-<summary><b>SalesAsk — AI Sales Coaching Platform (Co-Founder)</b></summary>
-<br/>
-
-A co-founded SaaS platform applying LLM analysis to real sales conversations, giving reps structured, actionable coaching feedback instead of generic training content.
-
-| Attribute | Details |
-|:----------|:--------|
-| **Stack** | Next.js · Node.js · LLM analysis pipeline · Conversation ingestion & scoring |
-| **Scale** | Multi-tenant SaaS architecture designed for sales teams |
-| **Performance** | Asynchronous analysis pipeline keeping the review experience responsive |
-| **Security** | Tenant data isolation and access-controlled conversation storage |
-| **Impact** | Converts raw sales calls into structured coaching insights and measurable rep improvement |
-| **Repository** | [github.com/your-github-username/salesask](https://github.com/your-github-username/salesask) |
-
-SalesAsk reflects end-to-end product ownership: problem discovery with real sales teams, LLM pipeline design for consistent structured evaluation, and full-stack delivery from data model to customer-facing UI.
+A hardware-meets-software build: customized ArduPilot flight-control code, multiple integrated sensors, and a replacement of standard radio control with a mobile/GSM network link — enabling autonomous long-range flight.
 
 </details>
 
@@ -177,39 +188,76 @@ SalesAsk reflects end-to-end product ownership: problem discovery with real sale
 
 ## Experience
 
-### Founder & Lead Engineer · Synetica Tech
-**YYYY — Present · Warsaw, Poland · Remote**
+### Independent Contractor / Tech Partner · Synetica Tech
+**2025 — 2026 · Warsaw, Poland · Remote**
 
-Independent software consultancy delivering full-stack and AI engineering for international clients — owning projects from architecture through deployment and iteration.
+Tech partner for small and medium-sized businesses, helping non-technical founders leverage AI and modern technology.
 
-- Designed and shipped production web applications on React / Next.js and Node.js with typed, maintainable architectures
-- Built LLM-powered features and automation pipelines: structured extraction, conversational interfaces, and agentic tooling
-- Owned infrastructure end to end across Vercel, Railway, and Cloudflare with a focus on reliability and cost efficiency
-- Managed the full delivery cycle: scoping, estimation, implementation, deployment, and client communication
+- Advise founders on where AI genuinely creates value in their business operations — and where it does not
+- Design and implement AI-driven solutions for business operations end to end
 
-`TypeScript` `React` `Next.js` `Node.js` `PostgreSQL` `Redis` `Claude API` `Vercel` `Cloudflare`
+`AI Consulting` `LLM Integration` `Fullstack` `Solution Architecture`
 
-### Co-Founder & Engineer · SalesAsk
-**YYYY — YYYY · Remote**
+### Fullstack AI Developer / Co-Founder · SalesAsk
+**2024 — 2026 · Remote**
 
-Co-founded an AI sales coaching platform, translating a real sales-enablement problem into a working LLM-powered product.
+Co-founded an AI Sales Coach platform analyzing in-person sales recordings for the Home Services industry.
 
-- Architected the conversation-analysis pipeline producing structured, consistent coaching feedback
-- Built the full-stack product surface: data models, APIs, and the customer-facing coaching interface
-- Drove product iteration from founder-level ownership: user feedback loops, prioritization, and shipping cadence
+- Built a user flow from scratch that increased compliance by 40%
+- Designed and implemented a data-gathering system based on battery-efficient background geolocation tracking, serving as a future agentic data source
+- Built a seamless, low-cost product-to-multiple-CRM integration, saving hundreds of thousands of dollars
+- Identified and resolved bottlenecks in the lead-generation system
 
-`Next.js` `Node.js` `LLM Pipelines` `Prompt Engineering` `SaaS Architecture`
+`React` `Node.js` `TypeScript` `LLM Integration` `Mobile` `CRM Integrations` `Geolocation`
 
-### Full-Stack Developer · Upwork (Freelance)
-**YYYY — Present · Remote**
+### Independent Contractor / Tech Partner · Upwork
+**2022 — 2024 · Remote**
 
-Delivered full-stack projects for international clients with an emphasis on clear communication, predictable delivery, and long-term maintainability.
+Delivered fullstack applications for clients across the world with an emphasis on predictable, maintainable delivery.
 
-- Shipped client web applications, integrations, and automations across the JavaScript / TypeScript ecosystem
-- Maintained a track record of successful remote delivery with distributed, asynchronous collaboration
-- Translated ambiguous client briefs into concrete technical scopes and working software
+- Shipped web, mobile, and desktop applications for international clients
+- Delivered applications that gained thousands of users
+- Built a lead scoring and enrichment system for client acquisition
 
-`JavaScript` `TypeScript` `React` `Node.js` `REST APIs` `Automation`
+`React` `Node.js` `TypeScript` `Web` `Mobile` `Desktop`
+
+### Frontend / AEM Developer · LOT Polish Airlines
+**2021 — 2022 · Warsaw, Poland**
+
+Frontend development for the national airline's customer-facing digital platforms.
+
+- Developed and maintained frontend solutions using Adobe Experience Manager (AEM)
+- Improved user experience across customer-facing applications
+
+`AEM` `JavaScript` `Frontend` `UX`
+
+### Fullstack Developer · ACCREA Engineering
+**2020 — 2021**
+
+Fullstack development on robotics systems in a hardware engineering environment.
+
+- Created the user interface for an autonomous disinfection robot
+- Implemented the navigation and control system using ROS and ROS3D
+
+`ROS` `ROS3D` `Robotics` `Fullstack` `UI`
+
+### Frontend Developer · eStoreMedia
+**2019 — 2020**
+
+Frontend development for e-commerce media solutions.
+
+- Built and maintained frontend features for e-commerce analytics products
+
+`JavaScript` `Frontend` `E-commerce`
+
+### Frontend Developer · OnTheRocks
+**2018 — 2019**
+
+Frontend development, concurrent with university studies.
+
+- Delivered frontend work while completing a Mathematics and Computer Science degree
+
+`JavaScript` `HTML/CSS` `Frontend`
 
 ---
 
@@ -219,51 +267,31 @@ Delivered full-stack projects for international clients with an emphasis on clea
 
 | Recognition | Details |
 |:-----------:|:--------|
-| **MCP Ecosystem Author** | Built and shipped a working Model Context Protocol server (yt-scribe) used daily inside Claude Desktop |
-| **Production AI in the Wild** | BizonBot serving a live community 24/7 with AI-parsed activity tracking and automated summaries |
-| **Startup Co-Founder** | Co-founded SalesAsk, an LLM-powered sales coaching SaaS, from concept to working product |
-| **Independent Consultancy** | Founded Synetica Tech, delivering full-stack and AI engineering to international clients |
-| **Zero-Cost Systems Design** | Repeatedly shipped reliable production systems on free-tier serverless infrastructure |
+| **+40% Compliance** | Designed and built a SalesAsk user flow from scratch that increased compliance by 40% |
+| **Six-Figure Savings** | Architected a low-cost product-to-multiple-CRM integration saving hundreds of thousands of dollars |
+| **Products at Scale** | Delivered fullstack applications that gained thousands of users as an independent contractor |
+| **Robotics in Production** | Shipped the UI plus ROS/ROS3D navigation and control system for an autonomous disinfection robot |
+| **Hardware + Software** | Built an autonomous aircraft with custom ArduPilot flight code and long-range GSM control |
+| **AI as a Product Capability** | Ships LLM integration, RAG pipelines, MCP servers, and agentic workflows in real products |
 
 </div>
 
 ---
 
-## Certifications
+## Education
+
+### Warsaw University of Technology
+**Faculty of Mathematics and Computer Science · 2015 — 2019**
+
+- Academic projects in numerical methods, discrete mathematics, statistics, algorithms and data structures
+- Programming languages: C, C#, C++, MATLAB
 
 <div align="center">
 
-#### AWS
-
-<img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-8B5CF6?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=1A1A2E"/>
-
-#### Oracle
-
-<img src="https://img.shields.io/badge/Oracle-Cloud%20Infrastructure%20Foundations-7C3AED?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1A1A2E"/>
-
-#### NPTEL
-
-<img src="https://img.shields.io/badge/NPTEL-Programming%2C%20Data%20Structures%20%26%20Algorithms-6D28D9?style=for-the-badge&logoColor=white&labelColor=1A1A2E"/>
-
-#### Cisco
-
-<img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Networks-4C1D95?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1A1A2E"/>
-
-</div>
-
----
-
-## Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/your-leetcode-username"><img src="https://img.shields.io/badge/LeetCode-Profile-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1A1A2E" height="40"/></a>
-&nbsp;
-<a href="https://www.geeksforgeeks.org/user/your-gfg-username"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1A1A2E" height="40"/></a>
-&nbsp;
-<a href="https://www.hackerrank.com/profile/your-hackerrank-username"><img src="https://img.shields.io/badge/HackerRank-Profile-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1A1A2E" height="40"/></a>
-&nbsp;
-<a href="https://www.codechef.com/users/your-codechef-username"><img src="https://img.shields.io/badge/CodeChef-Profile-4C1D95?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1A1A2E" height="40"/></a>
+<img src="https://img.shields.io/badge/Numerical%20Methods-Coursework-8B5CF6?style=flat-square&labelColor=1A1A2E"/>
+<img src="https://img.shields.io/badge/Algorithms%20%26%20Data%20Structures-Coursework-7C3AED?style=flat-square&labelColor=1A1A2E"/>
+<img src="https://img.shields.io/badge/Discrete%20Mathematics-Coursework-6D28D9?style=flat-square&labelColor=1A1A2E"/>
+<img src="https://img.shields.io/badge/Statistics-Coursework-4C1D95?style=flat-square&labelColor=1A1A2E"/>
 
 </div>
 
@@ -273,13 +301,13 @@ Delivered full-stack projects for international clients with an emphasis on clea
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8"/>
 
 <br/>
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=your-github-username&theme=midnight-purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9"/>
+<img src="https://streak-stats.demolab.com?user=your-github-username&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=A78BFA&dates=6B7280&stroke=2E1065"/>
 
 </div>
 
@@ -323,24 +351,24 @@ Delivered full-stack projects for international clients with an emphasis on clea
 
 ```yaml
 learning:
-  - LLM evaluation harnesses & regression testing
-  - Observability, tracing & cost attribution for AI systems
-  - Advanced Python asyncio patterns
+  - LLM evaluation & observability for production AI systems
+  - Advanced agentic architectures & multi-agent orchestration
+  - Voice AI pipelines (WhisperAI · CartesiaAI)
 
 building:
-  - BizonBot — AI accountability bot (production iteration)
-  - yt-scribe — MCP server & transcript intelligence
-  - Automation tooling on Cloudflare Workers + D1
+  - Personal AI Health Agent — MCP-powered weekly health reports
+  - YouTube-to-Summary AI Agent — video to structured knowledge
+  - AI-driven solutions for SMB clients via Synetica Tech
 
 exploring:
-  - Agentic workflow architectures & multi-tool orchestration
-  - Zero-cost, high-reliability serverless infrastructure patterns
-  - Structured LLM outputs for data pipelines
+  - Local-first AI tooling & self-hosted MCP servers
+  - AI x robotics convergence
+  - Cost-efficient LLM product architectures
 
 open_to:
   - AI Engineer roles
-  - Full-Stack Engineer roles
-  - Open source collaboration on AI tooling
+  - Fullstack Engineer roles
+  - Tech partnership & consulting engagements
 ```
 
 ---
