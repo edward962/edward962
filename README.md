@@ -14,10 +14,10 @@
 <br/>
 <br/>
 
-<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1A1A2E"/></a>
-<a href="https://www.linkedin.com/in/your-linkedin-username"><img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A2E"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A2E"/></a>
-<a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/GitHub-Follow-4C1D95?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A2E"/></a>
+<a href="https://testimonials.synetica.tech"><img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1A1A2E"/></a>
+<a href="https://www.linkedin.com/in/edward-ryżewski-b96360a7"><img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A2E"/></a>
+<a href="mailto:edryzewski@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A2E"/></a>
+<a href="https://github.com/edward962"><img src="https://img.shields.io/badge/GitHub-Follow-4C1D95?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A2E"/></a>
 
 </div>
 
@@ -140,8 +140,6 @@ A personal AI health agent built around Bryan Johnson's longevity protocols — 
 | **Performance** | Fully automated weekly health checks and reports — zero manual data wrangling |
 | **Security** | Personal health data processed locally through self-hosted MCP servers |
 | **Impact** | Protocol-driven health optimization with objective, longitudinal feedback |
-| **Repository** | [github.com/your-github-username/ai-health-agent](https://github.com/your-github-username/ai-health-agent) |
-
 This project demonstrates agentic AI applied to real personal data: custom MCP servers expose a calorie-tracking app and wristband metrics (sleep, heart rate) as tools, and the agent composes them into weekly health checks aligned with Bryan Johnson-style protocols.
 
 </details>
@@ -159,7 +157,6 @@ An AI agent that turns long-form YouTube content into structured knowledge — t
 | **Performance** | Hours of video condensed into minutes of structured reading |
 | **Security** | Local-first processing — content never leaves the user's machine |
 | **Impact** | Converts time-consuming video information into concise text with visualizations |
-| **Repository** | [github.com/your-github-username/youtube-summary-agent](https://github.com/your-github-username/youtube-summary-agent) |
 
 Built as an MCP-integrated agent using WhisperAI for speech-to-text, the pipeline transforms raw video into transcripts, distilled summaries, and bullet-point takeaways — a practical example of AI agents removing repetitive knowledge work.
 
@@ -178,7 +175,6 @@ A fully autonomous fixed-wing aircraft built on open-source ArduPilot, customize
 | **Performance** | Custom-tuned flight-control code with multi-sensor input |
 | **Security** | Mobile-network command link replacing conventional short-range radio control |
 | **Impact** | End-to-end hardware/software integration — from firmware to long-range connectivity |
-| **Repository** | [github.com/your-github-username/autonomous-plane](https://github.com/your-github-username/autonomous-plane) |
 
 A hardware-meets-software build: customized ArduPilot flight-control code, multiple integrated sensors, and a replacement of standard radio control with a mobile/GSM network link — enabling autonomous long-range flight.
 
@@ -297,56 +293,6 @@ Frontend development, concurrent with university studies.
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8"/>
-
-<br/>
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=your-github-username&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=A78BFA&dates=6B7280&stroke=2E1065"/>
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=2E1065&hide_border=true&custom_title=Contribution%20Activity"/>
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
-
----
-
 ## Current Focus
 
 ```yaml
@@ -377,13 +323,13 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-Reach%20Out-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A2E" height="40"/></a>
+<a href="mailto:edryzewski@gmail.com"><img src="https://img.shields.io/badge/Gmail-Reach%20Out-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A2E" height="40"/></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/your-linkedin-username"><img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A2E" height="40"/></a>
+<a href="https://www.linkedin.com/in/edward-ryżewski-b96360a7"><img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A2E" height="40"/></a>
 &nbsp;
-<a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/GitHub-Follow-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A2E" height="40"/></a>
+<a href="https://github.com/edward962"><img src="https://img.shields.io/badge/GitHub-Follow-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A2E" height="40"/></a>
 &nbsp;
-<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-Explore-4C1D95?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1A1A2E" height="40"/></a>
+<a href="https://testimonials.synetica.tech"><img src="https://img.shields.io/badge/Portfolio-Explore-4C1D95?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1A1A2E" height="40"/></a>
 
 </div>
 
